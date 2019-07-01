@@ -1,0 +1,33 @@
+<!-- header-gallery -->
+<div class="header-gallery">
+  <h1>Responsive Image Grid</h1>
+  <p>Resize the brow-galleryser window to see the responsive effect.</p>
+</div>
+
+<!-- Photo Grid -->
+<div class="row-gallery"> 
+<div class="column-gallery">
+<a href="REPLACE-WITH-YOUR-IMAGE-URL" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img src="REPLACE-WITH-YOUR-IMAGE-URL" style="width: 100%;" /></a>
+<a href="REPLACE-WITH-YOUR-IMAGE-URL" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img src="REPLACE-WITH-YOUR-IMAGE-URL" style="width: 100%;" /></a>  
+<a href="REPLACE-WITH-YOUR-IMAGE-URL" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img src="REPLACE-WITH-YOUR-IMAGE-URL" style="width: 100%;" /></a>  
+<a href="REPLACE-WITH-YOUR-IMAGE-URL" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img src="REPLACE-WITH-YOUR-IMAGE-URL" style="width: 100%;" /></a>  
+</div>
+<div class="column-gallery">
+<a href="REPLACE-WITH-YOUR-IMAGE-URL" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img src="REPLACE-WITH-YOUR-IMAGE-URL" style="width: 100%;" /></a>
+<a href="REPLACE-WITH-YOUR-IMAGE-URL" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img src="REPLACE-WITH-YOUR-IMAGE-URL" style="width: 100%;" /></a>
+<a href="REPLACE-WITH-YOUR-IMAGE-URL" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img src="REPLACE-WITH-YOUR-IMAGE-URL" style="width: 100%;" /></a>
+<a href="REPLACE-WITH-YOUR-IMAGE-URL" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img src="REPLACE-WITH-YOUR-IMAGE-URL" style="width: 100%;" /></a>
+</div>
+<div class="column-gallery">
+<a href="REPLACE-WITH-YOUR-IMAGE-URL" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img src="REPLACE-WITH-YOUR-IMAGE-URL" style="width: 100%;" /></a>  
+<a href="REPLACE-WITH-YOUR-IMAGE-URL" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img src="REPLACE-WITH-YOUR-IMAGE-URL" style="width: 100%;" /></a>  
+<a href="REPLACE-WITH-YOUR-IMAGE-URL" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img src="REPLACE-WITH-YOUR-IMAGE-URL" style="width: 100%;" /></a> 
+<a href="REPLACE-WITH-YOUR-IMAGE-URL" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img src="REPLACE-WITH-YOUR-IMAGE-URL" style="width: 100%;" /></a>
+</div>
+<div class="column-gallery">
+<a href="REPLACE-WITH-YOUR-IMAGE-URL" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img src="REPLACE-WITH-YOUR-IMAGE-URL" style="width: 100%;" /></a>  
+<a href="REPLACE-WITH-YOUR-IMAGE-URL" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img src="REPLACE-WITH-YOUR-IMAGE-URL" style="width: 100%;" /></a>  
+<a href="REPLACE-WITH-YOUR-IMAGE-URL" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img src="REPLACE-WITH-YOUR-IMAGE-URL" style="width: 100%;" /></a>
+<a href="REPLACE-WITH-YOUR-IMAGE-URL" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img src="REPLACE-WITH-YOUR-IMAGE-URL" style="width: 100%;" /></a> 
+</div>
+</div>
